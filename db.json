@@ -1,0 +1,121 @@
+{
+    "itemsCardRumah": [
+        {
+            "id": 1,
+            "nama": "Rumah 1",
+            "harga": "Rp. 2000000",
+            "hargaAsli": "Rp. 250000000",
+            "lokasi": "Jl. Raya Kedungwaringin",
+            "luas": "100 m2",
+            "kamar": 2,
+            "kamarMandi": 1,
+            "garasi": 1,
+            "gambar": "rumah1.jpg",
+            "deskripsi": "Rumah minimalis dengan 2 kamar tidur, 1 kamar mandi, dan 1 garasi"
+        }, 
+        {
+            "id": 2,
+            "nama": "Rumah 2",
+            "harga": "Rp. 2000000",
+            "hargaAsli": "Rp. 250000000",
+            "lokasi": "Jl. Raya Kedungwaringin",
+            "luas": "100 m2",
+            "kamar": 2,
+            "kamarMandi": 1,
+            "garasi": 1,
+            "gambar": "rumah2.jpeg",
+            "deskripsi": "Rumah minimalis dengan 2 kamar tidur, 1 kamar mandi, dan 1 garasi"
+        }, 
+        {
+            "id": 3,
+            "nama": "Rumah 3",
+            "harga": "Rp. 2000000",
+            "hargaAsli": "Rp. 250000000",
+            "lokasi": "Jl. Kampung Harapan",
+            "luas": "100 m2",
+            "kamar": 2,
+            "kamarMandi": 1,
+            "garasi": 1,
+            "gambar": "rumah3.jpg",
+            "deskripsi": "Rumah minimalis dengan 2 kamar tidur, 1 kamar mandi, dan 1 garasi"
+        },
+        {
+            "id": 4,
+            "nama": "Rumah 4",
+            "harga": "Rp. 1800000",
+            "hargaAsli": "Rp. 200000000",
+            "lokasi": "Jl. Telaga Harapan Nomor 1",
+            "luas": "100 m2",
+            "kamar": 2,
+            "kamarMandi": 1,
+            "garasi": 1,
+            "gambar": "rumah4.png",
+            "deskripsi": "Rumah minimalis dengan 2 kamar tidur, 1 kamar mandi, dan 1 garasi"
+        },
+        {
+            "id": 5,
+            "nama": "Rumah 5",
+            "harga": "Rp. 2000000",
+            "hargaAsli": "Rp. 190000000",
+            "lokasi": "Kec Meral barat Darussalam",
+            "luas": "100 m2",
+            "kamar": 2,
+            "kamarMandi": 1,
+            "garasi": 1,
+            "gambar": "rumah5.jpg",
+            "deskripsi": "Rumah minimalis dengan 2 kamar tidur, 1 kamar mandi, dan 1 garasi"
+        },
+        {
+            "id": 6,
+            "nama": "Rumah 6",
+            "harga": "Rp. 2500000",
+            "hargaAsli": "Rp. 280000000",
+            "lokasi": "Jl. Telaga tujuh Ahmad Yani 1",
+            "luas": "100 m2",
+            "kamar": 2,
+            "kamarMandi": 1,
+            "garasi": 1,
+            "gambar": "rumah6.jpg",
+            "deskripsi": "Rumah minimalis dengan 2 kamar tidur, 1 kamar mandi, dan 1 garasi"
+        },
+        {
+            "id": 7,
+            "nama": "Rumah 7",
+            "harga": "Rp. 1000000",
+            "hargaAsli": "Rp. 150000000",
+            "lokasi": "Jl. Jendral Sudirman Kpg Bukit Tembak",
+            "luas": "100 m2",
+            "kamar": 2,
+            "kamarMandi": 1,
+            "garasi": 1,
+            "gambar": "rumah7.jpg",
+            "deskripsi": "Rumah minimalis dengan 2 kamar tidur, 1 kamar mandi, dan 1 garasi"
+        },
+        {
+            "id": 8,
+            "nama": "Rumah 8",
+            "harga": "Rp. 3100000",
+            "hargaAsli": "Rp. 300000000",
+            "lokasi": "Jl. Haraapan Baru",
+            "luas": "100 m2",
+            "kamar": 2,
+            "kamarMandi": 1,
+            "garasi": 1,
+            "gambar": "rumah8.jpeg",
+            "deskripsi": "Rumah minimalis dengan 2 kamar tidur, 1 kamar mandi, dan 1 garasi"
+        },
+        {
+            "id": 9,
+            "nama": "Rumah 9",
+            "harga": "Rp. 500000",
+            "hargaAsli": "Rp. 150000000",
+            "lokasi": "Jl. Pasir panjang",
+            "luas": "100 m2",
+            "kamar": 2,
+            "kamarMandi": 1,
+            "garasi": 1,
+            "gambar": "rumah9.jpg",
+            "deskripsi": "Rumah minimalis dengan 2 kamar tidur, 1 kamar mandi, dan 1 garasi"
+        }
+    ]
+}
